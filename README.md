@@ -29,7 +29,7 @@ A software tool that reads Simulink MDL files and presents their hierarchical st
       <P Name="Dst">3#in:1</P>
     </Branch>
   </Line>
-...
+  ...
 </System>
 ```
   
