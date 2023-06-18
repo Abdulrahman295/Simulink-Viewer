@@ -7,15 +7,7 @@ A software tool that reads Simulink MDL files and presents their hierarchical st
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <System>
-  <P Name="Location">[-8, -8, 1928, 1058]</P>
-  <P Name="SystemRect">[0.000000, 0.000000, 0.000000, 0.000000]</P>
-  <P Name="Open">on</P>
-  <P Name="SetExecutionDomain">off</P>
-  <P Name="ExecutionDomainType">Deduce</P>
-  <P Name="ZoomFactor">400</P>
-  <P Name="ReportName">simulink-default.rpt</P>
-  <P Name="SIDHighWatermark">7</P>
-  <P Name="SimulinkSubDomain">Simulink</P>
+  ...
   <Block BlockType="Sum" Name="Add" SID="3" >
     <P Name="Ports">[3, 1]</P>
     <P Name="Position">[1040, 209, 1070, 241]</P>
