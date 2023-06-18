@@ -36,7 +36,7 @@ A software tool that reads Simulink MDL files and presents their hierarchical st
 - parse the extracted information into four main classes: System, Blocks, Lines and Branches.
 - Display the hierarchical structure.
 
-  ![Example](https://github.com/Abdulrahman295/Simulink/assets/89452130/ed2f932d-23c0-4371-913a-ab51d9c527b9)
+  ![Example](https://github.com/Abdulrahman295/Simulink-Viewer/assets/89452130/8ff7aa45-8026-42de-8034-e695672903cb)
   
 ## Prerequisites
 
